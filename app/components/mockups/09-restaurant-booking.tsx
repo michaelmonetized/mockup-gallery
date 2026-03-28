@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { Clock, Users, MapPin, Star, Chef, Flame, Calendar, Phone } from 'lucide-react';
+import { Clock, Users, MapPin, Star, ChefHat, Flame, Calendar, Phone } from 'lucide-react';
 
 export default function RestaurantBooking() {
   return (
@@ -200,7 +200,7 @@ export default function RestaurantBooking() {
           <div className="grid md:grid-cols-3 gap-8">
             {[
               { icon: Clock, title: 'Instant Booking', desc: 'No wait time, no phone calls needed' },
-              { icon: Chef, title: 'Verified Restaurants', desc: 'Real reviews from real diners' },
+              { icon: ChefHat, title: 'Verified Restaurants', desc: 'Real reviews from real diners' },
               { icon: Users, title: 'Best Selection', desc: '50K+ restaurants to choose from' },
             ].map((reason, i) => {
               const Icon = reason.icon;
