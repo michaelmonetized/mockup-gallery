@@ -23,7 +23,7 @@ export default function HomeServices() {
 
       {/* Hero */}
       <section className="relative h-[600px] flex items-center justify-center bg-gradient-to-br from-emerald-600 to-emerald-700 text-white overflow-hidden">
-        <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg viewBox=\"0 0 1200 600\" xmlns=\"http://www.w3.org/2000/svg\"%3E%3Cpath d=\"M0 300 Q300 200 600 300 T1200 300\" stroke=\"white\" stroke-width=\"1\" fill=\"none\" opacity=\"0.1\"/%3E%3C/svg%3E')]" />
+        <div className="absolute inset-0 bg-gradient-to-br" />
 
         <div className="relative z-10 text-center max-w-3xl px-6">
           <h1 className="text-5xl md:text-6xl font-bold mb-6">Your Home Experts</h1>

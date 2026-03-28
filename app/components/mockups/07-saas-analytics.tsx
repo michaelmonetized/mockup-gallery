@@ -23,7 +23,7 @@ export default function SaaSAnalytics() {
 
       {/* Hero */}
       <section className="relative py-32 flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg viewBox=\"0 0 1200 600\" xmlns=\"http://www.w3.org/2000/svg\"%3E%3Cpath d=\"M100 300 Q600 100 1100 300\" stroke=\"%234F46E5\" stroke-width=\"1\" fill=\"none\" opacity=\"0.1\"/%3E%3Ccircle cx=\"600\" cy=\"300\" r=\"100\" fill=\"%234F46E5\" opacity=\"0.05\"/%3E%3C/svg%3E')]" />
+        <div className="absolute inset-0 bg-gradient-to-br" />
 
         <div className="relative z-10 max-w-3xl mx-auto text-center px-6">
           <div className="inline-block mb-6 px-4 py-2 bg-blue-500/20 border border-blue-500 rounded-full text-sm font-semibold text-blue-300">

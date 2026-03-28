@@ -35,7 +35,7 @@ export default function EcommerceFashion() {
 
       {/* Hero */}
       <section className="relative h-[600px] flex items-center justify-center bg-gradient-to-r from-gray-900 to-gray-800 text-white overflow-hidden">
-        <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg viewBox=\"0 0 1200 600\" xmlns=\"http://www.w3.org/2000/svg\"%3E%3Ccircle cx=\"300\" cy=\"150\" r=\"100\" fill=\"white\" opacity=\"0.05\"/%3E%3Ccircle cx=\"900\" cy=\"450\" r=\"150\" fill=\"white\" opacity=\"0.05\"/%3E%3C/svg%3E')]" />
+        <div className="absolute inset-0 bg-gradient-to-br" />
         <div className="relative z-10 text-center max-w-3xl px-6">
           <h1 className="text-6xl md:text-7xl font-bold mb-6">Timeless Elegance</h1>
           <p className="text-xl text-gray-300 mb-8">Curated collection of contemporary fashion</p>

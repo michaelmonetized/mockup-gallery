@@ -23,7 +23,7 @@ export default function AutomotiveDealership() {
 
       {/* Hero */}
       <section className="relative h-[600px] flex items-center justify-center bg-gradient-to-br from-gray-900 to-blue-900 text-white overflow-hidden">
-        <div className="absolute inset-0 opacity-20 bg-[url('data:image/svg+xml,%3Csvg viewBox=\"0 0 1200 600\" xmlns=\"http://www.w3.org/2000/svg\"%3E%3Cpath d=\"M100 300 Q400 100 800 300\" stroke=\"white\" stroke-width=\"2\" fill=\"none\"/%3E%3C/svg%3E')]" />
+        <div className="absolute inset-0 opacity-20 bg-gradient-to-br" />
         
         <div className="relative z-10 text-center max-w-3xl px-6">
           <h1 className="text-6xl md:text-7xl font-bold mb-6">Drive Excellence</h1>

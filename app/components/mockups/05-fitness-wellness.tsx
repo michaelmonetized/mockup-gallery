@@ -25,7 +25,7 @@ export default function FitnessWellness() {
 
       {/* Hero */}
       <section className="relative h-[700px] flex items-center justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white overflow-hidden">
-        <div className="absolute inset-0 opacity-40 bg-[url('data:image/svg+xml,%3Csvg viewBox=\"0 0 1200 600\" xmlns=\"http://www.w3.org/2000/svg\"%3E%3Cg stroke=\"white\" stroke-width=\"0.5\" opacity=\"0.1\"%3E%3Cline x1=\"0\" y1=\"300\" x2=\"1200\" y2=\"300\"/%3E%3Cline x1=\"600\" y1=\"0\" x2=\"600\" y2=\"600\"/%3E%3C/g%3E%3C/svg%3E')]" />
+        <div className="absolute inset-0 opacity-40 bg-gradient-to-br" />
 
         <div className="relative z-10 text-center max-w-3xl px-6">
           <div className="inline-block mb-6 px-4 py-2 bg-orange-500/20 border border-orange-500 rounded-full text-sm font-semibold text-orange-400">
