@@ -5,3 +5,4 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+// Force Vercel rebuild Sat Mar 28 09:38:32 PM EDT 2026
